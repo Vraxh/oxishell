@@ -1,1 +1,3 @@
 # oxishell
+
+Shell with Rust
